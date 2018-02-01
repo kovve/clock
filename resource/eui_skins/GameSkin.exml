@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="1609ff12a70"/>
+	<e:Image id="thisbg" source="GameBG_jpg" x="0" y="0" locked="true"/>
+	<e:Group width="712" height="136" anchorOffsetX="0" anchorOffsetY="0" left="0" top="0">
+	</e:Group>
+	<e:Label id="scoreTxt" text="32323" verticalAlign="middle" left="198" top="44"/>
+	<e:Image source="curSorce_png" left="16" top="38"/>
+	<e:Image id="refreshBtn" source="refreshBtn_png" right="279" top="26"/>
+	<e:Label id="tipName" text="点击屏幕开始射击！" verticalAlign="middle" horizontalCenter="16.5" anchorOffsetX="0" width="355" size="36" bold="true" fontFamily="SimHei" textAlign="center" bottom="44"/>
+	<e:Image id="rankBtn" source="rankBtn_png" right="199" top="25"/>
+	<e:Image id="rewardBtn" source="awardBtn_png" right="123" top="26"/>
+	<e:Image id="tipsBtn" source="tip_png" right="55" top="26"/>
+</e:Skin>

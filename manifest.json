@@ -1,0 +1,43 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/socket/socket.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/Model/BaseView.js",
+		"bin-debug/Views/rankList/RankListView.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Events/CommonEvent.js",
+		"bin-debug/Events/MyUIEvent.js",
+		"bin-debug/Load/PreLoadController.js",
+		"bin-debug/Manager/DataManager.js",
+		"bin-debug/Manager/EventManager.js",
+		"bin-debug/Manager/Layout.js",
+		"bin-debug/Manager/ModuleManager.js",
+		"bin-debug/Manager/SoundManager.js",
+		"bin-debug/Manager/UIManager.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Model/GameVo.js",
+		"bin-debug/Model/GlobalData.js",
+		"bin-debug/Model/UserModel.js",
+		"bin-debug/proxy/HttpCommand.js",
+		"bin-debug/proxy/PlayerInfoProxy.js",
+		"bin-debug/Utils/StringUtil.js",
+		"bin-debug/Utils/ViewUtil.js",
+		"bin-debug/Views/GameEndView.js",
+		"bin-debug/Views/GameInfoView.js",
+		"bin-debug/Views/GameLogic.js",
+		"bin-debug/Views/GameNoInAppView.js",
+		"bin-debug/Views/GameRewardsView.js",
+		"bin-debug/Views/GameStartView.js",
+		"bin-debug/Views/LoadingUI.js",
+		"bin-debug/Views/rankList/EndRankItem.js",
+		"bin-debug/Main.js"
+	]
+}
